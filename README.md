@@ -27,10 +27,8 @@ This project aims to analyze a comprehensive dataset on airports and flights in 
 
 ## Contents  
 
-1. [Project Overview](#project-overview)  
-2. [Tasks and Outputs](#tasks-and-outputs)  
-3. [License](#license)  
-
+The repository is organized as follows: 
+- `main.ipynb` is the main file containing the answers to each task divided into sections.
 ---
 
 ## Project Overview  
